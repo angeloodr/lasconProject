@@ -1,6 +1,6 @@
 import numpy as np 
-import scipy
-import sys
+# import scipy
+# import sys
 import os
 from numba import jit, float64
 
